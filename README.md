@@ -24,7 +24,6 @@ Analisar o comportamento dos clientes da Telecom X e identificar padrões relaci
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 
 🔍 Etapas da Análise
 
@@ -44,12 +43,6 @@ Analisar o comportamento dos clientes da Telecom X e identificar padrões relaci
 📈 Conclusão
 
 A análise demonstrou que o churn está fortemente associado a contratos de curto prazo, menor tempo de relacionamento com a empresa e valores mensais elevados. Esses resultados reforçam a importância de estratégias focadas na retenção de clientes nos primeiros meses de contrato e na oferta de planos mais atrativos.
-
-📂 Estrutura do Repositório
-
-- `Telecom X - Análise de Evasão de Clientes`: Notebook principal com a análise completa
-- `TelecomX_Data.csv`: Conjunto de dados utilizado no projeto
-- `README.md`: Documentação do projeto
 
 👩‍💻 Autor
 
